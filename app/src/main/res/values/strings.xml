@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RamblerRSS</string>
+    <string name="hintLogin">Введите логин</string>
+    <string name="hintPassword">Введите пароль</string>
+    <string name="cbSaveAuth">Сохранить пользователя</string>
+    <string name="Auth">Авторизация</string>
+    <string name="Moscow">Москва</string>
+    <string name="Politics">Политика</string>
+    <string name="Community">Общество</string>
+    <string name="Incidents">Инциденты</string>
+    <string name="Back">Назад</string>
+    <string name="Share">Поделиться</string>
+    <string name="NewsTitle">Введите заголовок новости</string>
+    <string name="Search">Искать</string>
+    <string name="Creator">Разработал: Еширин Илья РИБО-02-22</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_moscow"
+        android:title="@string/Moscow"
+        android:icon="@drawable/ic_moscow"/>
+    <item
+        android:id="@+id/nav_politics"
+        android:title="@string/Politics"
+        android:icon="@drawable/ic_politics"/>
+    <item
+        android:id="@+id/nav_community"
+        android:title="@string/Community"
+        android:icon="@drawable/ic_community"/>
+    <item
+        android:id="@+id/nav_incidents"
+        android:title="@string/Incidents"
+        android:icon="@drawable/ic_incidents"/>
+</menu>
